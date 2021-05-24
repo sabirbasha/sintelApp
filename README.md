@@ -1,2 +1,2 @@
 # sintelApp
-Please Use npm install command for nodemodules installations
+Please Use npm install && cd ios && pod install command to run the Application
