@@ -1,0 +1,6 @@
+module Pods_sintelApp {
+  umbrella header "Pods-sintelApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

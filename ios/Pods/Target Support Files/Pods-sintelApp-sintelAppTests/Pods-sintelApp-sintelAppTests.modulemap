@@ -1,0 +1,6 @@
+module Pods_sintelApp_sintelAppTests {
+  umbrella header "Pods-sintelApp-sintelAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
